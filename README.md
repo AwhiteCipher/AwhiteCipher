@@ -1,5 +1,9 @@
 # Security Researcher | Web Security Specialist
 
+
+Uploading grok-video-acf939b7-1f2c-4112-add6-a499867766db.mp4…
+
+
 ## Profile Summary
 I am a security researcher specializing in **web application security and infrastructure analysis**.  
 My work focuses on identifying, analyzing, and resolving vulnerabilities in modern web systems, with an emphasis on **practical security assessment and responsible disclosure**.
