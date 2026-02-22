@@ -1,70 +1,63 @@
 # Security Researcher | Web Security Specialist
 
+## About Me
+![Web Security](https://media.giphy.com/media/3ohs81rDuEz9ioJzAA/giphy.gif)
+I work in web application security, focusing on identifying and analyzing weaknesses in modern web systems. Most of my work revolves around structured security assessments, understanding application logic, and improving overall system resilience.
 
-
-
-## Profile Summary
-I am a security researcher specializing in **web application security and infrastructure analysis**.  
-My work focuses on identifying, analyzing, and resolving vulnerabilities in modern web systems, with an emphasis on **practical security assessment and responsible disclosure**.
-
-I actively operate as a **white-hat professional**, conducting ethical security assessments and participating in vulnerability programs to help organizations strengthen their security posture.
+My approach is practical and research-driven — I care about understanding how systems behave under real-world conditions and how security issues can be responsibly identified and communicated.
 
 ---
 
-## Core Expertise
+## What I Work On
 
 ### Web Application Security
-- Advanced vulnerability discovery methodologies  
-- OWASP Top 10 & beyond (logic flaws, chained issues)  
-- Authentication and session analysis  
-- Access control review and mitigation techniques  
-- API security testing  
-
-![Web Security GIF](https://media.giphy.com/media/3ohs81rDuEz9ioJzAA/giphy.gif)
+I regularly assess web applications with attention to:
+- Business logic flaws and complex vulnerability chains  
+- Authentication and session management analysis  
+- Access control validation and privilege boundaries  
+- API security evaluation  
+- OWASP Top 10 and related risk categories  
 
 ### Security Research & Development
-- Development of proof-of-concept demonstrations  
-- Vulnerability analysis workflows  
-- Custom scripting for testing and assessment  
-- Post-assessment reporting and documentation  
+- Building proof-of-concept demonstrations when needed  
+- Designing repeatable vulnerability analysis workflows  
+- Writing custom scripts to support structured testing  
+- Documenting findings with clarity and technical depth  
 
 ### Security Engineering
-- Attack surface mapping and system evaluation automation  
-- Custom security tooling and workflow scripting  
-- Risk assessment and security path modeling  
+- Mapping application attack surfaces  
+- Automating parts of assessment workflows  
+- Developing internal security utilities  
+- Performing risk-based technical evaluations  
 
 ---
 
-## Technical Capabilities
+## Technical Background
 
-**Languages & Scripting**
+**Languages**
 - Python  
 - Bash / Shell scripting  
-- JavaScript (for client-side security analysis)  
+- JavaScript (client-side analysis)  
+- PHP
 
-**Security Tools**
-- Burp Suite (advanced usage & extensions)  
-- Nmap & network scanning frameworks  
-- Manual security testing workflows  
-- Linux security and analysis environments  
+**Tools & Environment**
+- Burp Suite  
+- Nmap, hackertargert, ...  
+- Linux-based security environments  
+- Manual testing methodologies  
 
 ---
 
 ## Research Interests
-- Vulnerability discovery and analysis  
-- Web application security at scale  
-- Automation of security assessment processes  
-- Emerging threats in modern web architectures  
+
+I’m particularly interested in:
+- Advanced web vulnerability discovery  
+- Scalable web security assessment  
+- Automation in security analysis  
+- Evolving threat patterns in modern web architectures  
 
 ---
 
-## Professional Activities
-- Active participant in vulnerability reporting programs  
-- Responsible disclosure of security issues  
-- Development of custom security assessment tools  
-- Hands-on research in real-world security environments  
+## Current Direction
 
----
-
-## Objective
-To contribute as a **web security professional**, performing advanced assessments, research initiatives, and security operations for modern web systems.
+My goal is to continue growing as a web security professional, contributing to structured security assessments, research initiatives, and high-quality security operations within mature technical teams.
