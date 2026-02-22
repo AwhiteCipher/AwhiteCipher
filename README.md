@@ -1,11 +1,12 @@
 # Security Researcher | Web Security Specialist
 
 ## About Me
-![Web Security](https://media.giphy.com/media/3ohs81rDuEz9ioJzAA/giphy.gif)
+
 I work in web application security, focusing on identifying and analyzing weaknesses in modern web systems. Most of my work revolves around structured security assessments, understanding application logic, and improving overall system resilience.
 
 My approach is practical and research-driven — I care about understanding how systems behave under real-world conditions and how security issues can be responsibly identified and communicated.
 
+![Web Security](https://media.giphy.com/media/3ohs81rDuEz9ioJzAA/giphy.gif)
 ---
 
 ## What I Work On
