@@ -1,7 +1,6 @@
 # Security Researcher | Web Security Specialist
 
 
-Uploading grok-video-acf939b7-1f2c-4112-add6-a499867766db.mp4…
 
 
 ## Profile Summary
@@ -20,6 +19,8 @@ I actively operate as a **white-hat professional**, conducting ethical security 
 - Authentication and session analysis  
 - Access control review and mitigation techniques  
 - API security testing  
+
+![Web Security GIF](https://giphy.com/gifs/angry-mad-computer-3ohs81rDuEz9ioJzAA)
 
 ### Security Research & Development
 - Development of proof-of-concept demonstrations  
