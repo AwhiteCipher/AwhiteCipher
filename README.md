@@ -20,7 +20,7 @@ I actively operate as a **white-hat professional**, conducting ethical security 
 - Access control review and mitigation techniques  
 - API security testing  
 
-![Web Security GIF](https://giphy.com/gifs/angry-mad-computer-3ohs81rDuEz9ioJzAA)
+![Web Security GIF](https://media.giphy.com/media/3ohs81rDuEz9ioJzAA/giphy.gif)
 
 ### Security Research & Development
 - Development of proof-of-concept demonstrations  
